@@ -16,7 +16,7 @@ The code has been validated against the reference eigenvalues in Appendix A of t
 'Stability and Transition in Shear Flows' by Schmid and Henningson, 2001.
 
 Furthermore, the code faithfully reproduces the well known result of plane Poiseuille flow becoming unstable at Re = 5772.22 
-and at a streamwise wavenumber of alpha ~ 1.02. The spectrum of this unstable channel case is presented in the attached figure.
+and at a streamwise wavenumber of alpha ~ 1.02 (see 'Accurate solution of the Orr–Sommerfeld stability equation', Orszag S., J. Fluid Mech. 1971). The spectrum of this unstable channel case is presented in the attached figure.
 
 
 <img width="1882" height="1655" alt="ORR_SOMMERFELD_SPECTRUM" src="https://github.com/user-attachments/assets/efb8b1b2-7c8c-4884-a2c6-840dd31d8b6d" />
